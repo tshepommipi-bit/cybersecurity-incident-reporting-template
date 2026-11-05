@@ -1,2 +1,6 @@
-# cybersecurity-incident-reporting-template
-A standardized cybersecurity incident reporting template and response guide for junior security analysts
+# Cybersecurity Incident Reporting Template & Guidelines
+## Overview
+This repository provides a standardized Cybersecurity Incident Reporting Template and accompanying Response Guidelines.
+## Files Included
+- incident-report-template.md: Incident reporting form.
+- incident-response-guidelines.md: Escalation matrix and procedures.
